@@ -32,7 +32,7 @@ jobs:
     - run: npx mocha test.js
 
 ```
-![App Screenshot](1.PNG)
+![App Screenshot](https://github.com/Filiposki54/TAU/blob/main/LAB6/1.png)
 Test ponizej został zmodyfikowany tak aby aplikacja go nie przeszła w związku z czym po cimicie w githubaction można zaobserować błąd
 Po wejściu w niego można zobaczyć co w testach poszło nie tak poniewarz są opisane tak samio jakby były w terminalu 
-![App Screenshot](2.PNG)
+![App Screenshot](https://github.com/Filiposki54/TAU/blob/main/LAB6/2.png)
